@@ -59,7 +59,7 @@ Output: 18
 
 然後透過 MinHeap 每次 Pop 出最小的 Cost 還有那個連接點
 
-![](https://i.imgur.com/4We2uLd.png
+![](https://i.imgur.com/4We2uLd.png)
 
 ## 程式碼
 ```go
